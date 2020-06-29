@@ -52,10 +52,20 @@ i = 0 is the count used when you loop through the array, i < numbers.legnth mean
 
 ## Arrays!!!
 
+![](https://miro.medium.com/max/1200/1*1LbYsEHdn-9cGCfk6cOOIA.gif)
+
 Arrays are fun! you can do a lot of things with arrays including modifying them, deleting parts of the array 
 
 
+Push: Adds a new item to an array
 
+Pop: Deletes the last item to an array
+
+![](https://miro.medium.com/max/1200/1*ZKYvc1MYvVBhyT3q7piQOg.gif)
+
+Shift:Remove the first item of an array
+
+Unshift: Adds a new item to the start of the string.
 
 
 
