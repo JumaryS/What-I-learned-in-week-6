@@ -42,7 +42,8 @@ A while loop is a "flow control system". While a condition is true  then the fun
 ![for loops demo](https://res.cloudinary.com/practicaldev/image/fetch/s--RD5sE5BL--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/ciwuuuxvt9ew1sxd45hl.gif)
 
 
-A for loop helps when looping through an array they are also helpful if you want to run the same code over again and again, each time with a different value. In the example above we have an array called numbers that has a value of a few numbers [45,78,95,36,47]
+A for loop helps when looping through an array they are also helpful if you want to run the same code over again and again, each time with a different value. In the example above we have an array called numbers that has a value of a few numbers [45,78,95,36,47]. we are usuing a for loop  for (i =0; i < numbers.length, i ++)
+i = 0 is the count used when you loop through the array, i < numbers.legnth means the the count (i =0 ) is going through the loop counting how many values are in the array numbers. i ++ helps count go up an incriment per every value. 
 
 
 
@@ -51,7 +52,7 @@ A for loop helps when looping through an array they are also helpful if you want
 
 ## Arrays!!!
 
-
+Arrays are fun! you can do a lot of things with arrays including modifying them, deleting parts of the array 
 
 
 
