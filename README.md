@@ -10,7 +10,7 @@
  #### Project/s we used :
             1. Calc You Later
    
-![](/or%20.png)
+![](/or.png)
 
 # Or statment " || "
 
